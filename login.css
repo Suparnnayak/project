@@ -1,0 +1,96 @@
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/164/537/original/fingerprint-identity-sensor-data-protection-system-podium-hologram-blue-light-and-concept-free-vector.jpg); 
+    background-repeat: no-repeat;
+    background-size:1600px;
+}
+
+
+
+
+
+
+#login{
+    text-decoration:solid;
+    text-indent: 6cm;
+    position:relative;top:2cm;left: 4cm;
+    font-size: 75px;
+}
+
+
+#sub{
+    position: relative;top: 2cm;left: 17cm;
+    font-size: 25px;
+
+}
+
+
+#facebook{
+     
+    border-radius: 75%;
+    position: relative;top: 3cm;left: 16cm;
+
+}
+
+#google{
+    border-top: 20px;
+    position: relative;top: 3cm;left: 18cm;
+}
+
+#link{
+    border-radius: 90%;
+    border-bottom-left-radius: 90%;
+    border-top-right-radius: 90%;
+    position: relative;top: 3cm;left: 20cm;
+    cursor: not-allowed;
+}
+/* hr{
+    position: relative;top: 4.57cm;
+} */
+#or
+{
+    position: relative;top: 3.5cm;left: 20cm;
+}
+
+
+#Email{
+    padding: 5px 2% 10px;background-color: rgb(251, 249, 248);cursor:wait;
+    position: relative;top: 4cm;left: 17cm;
+    border-radius: 50%;
+}
+
+
+#password{
+    padding: 5px 2% 10px;background-color: rgb(255, 255, 254);cursor:wait;
+    position: relative;top: 4cm;left: 17cm;
+    border-radius: 50%;
+    
+}
+
+#signin{
+    padding: 5px 2% 10px;background-color: rgb(0, 0, 0);cursor:progress;
+    position: relative;top: 4.3cm;left: 18.5cm;
+    /* border-top-left-radius: 20px; */
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    /* border-bottom-right-radius: 20px; */
+}
+
+
+#corner{
+    position: relative;left: 18cm;top: 4cm;
+}
+
+#happy{
+    position: relative;left: 15cm;top: 4cm;
+}
+
+
+#signup{
+    padding: 5px 2% 10px;background-color: rgb(0, 0, 0);cursor:progress;
+    position: relative;top: 4.3cm;left: 18.5cm;
+    /* border-top-left-radius: 20px; */
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    /* border-bottom-right-radius: 20px; */
+}
